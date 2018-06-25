@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="DICE Services and Titles">8de7d8e3db7a9f8036437d8bbf9619a7</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>DICE Services and Titles</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_elar_data_lookup_dice_services_and_titles</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_elar_data_lookup.dice_services_and_titles_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>ssturdevant</sys_created_by>
+        <sys_created_on>2018-06-25 14:00:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>4de7d8e3db7a9f8036437d8bbf9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DICE Services and Titles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Lookups" source="x_elar_data_lookup">f9179ca3db7a9f8036437d8bbf961996</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Data Lookups">f9179ca3db7a9f8036437d8bbf961996</sys_scope>
+        <sys_update_name>sys_app_module_4de7d8e3db7a9f8036437d8bbf9619aa</sys_update_name>
+        <sys_updated_by>ssturdevant</sys_updated_by>
+        <sys_updated_on>2018-06-25 14:00:48</sys_updated_on>
+        <timeline_page/>
+        <title>DICE Services and Titles</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>DICE Services and Titles</name>
+        <order/>
+        <roles>x_elar_data_lookup.dice_services_and_tit</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>ssturdevant</sys_created_by>
+        <sys_created_on>2018-06-25 14:00:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>d9e7d8e3db7a9f8036437d8bbf9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DICE Services and Titles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Lookups" source="x_elar_data_lookup">f9179ca3db7a9f8036437d8bbf961996</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Data Lookups">f9179ca3db7a9f8036437d8bbf961996</sys_scope>
+        <sys_update_name>sys_ui_application_d9e7d8e3db7a9f8036437d8bbf9619ad</sys_update_name>
+        <sys_updated_by>ssturdevant</sys_updated_by>
+        <sys_updated_on>2018-06-25 14:00:48</sys_updated_on>
+    </sys_ui_application>
+</record_update>

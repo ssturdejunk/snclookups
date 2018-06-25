@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="DICE Services and Titles" max_length="40" name="x_elar_data_lookup_dice_services_and_titles" type="collection">
+        <element label="Lookup" max_length="40" name="lookup" type="string"/>
+        <element label="Return value" max_length="40" name="return_value" type="string"/>
+    </element>
+</database>
