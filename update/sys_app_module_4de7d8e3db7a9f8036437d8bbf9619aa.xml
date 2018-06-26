@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="DICE Services and Titles">8de7d8e3db7a9f8036437d8bbf9619a7</application>
+        <application display_value="EADP Data Lookups">8de7d8e3db7a9f8036437d8bbf9619a7</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -28,8 +28,8 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>4de7d8e3db7a9f8036437d8bbf9619aa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>DICE Services and Titles</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>EADP DICE Data Lookups</sys_name>
         <sys_overrides/>
         <sys_package display_value="Data Lookups" source="x_elar_data_lookup">f9179ca3db7a9f8036437d8bbf961996</sys_package>
         <sys_policy/>
@@ -37,9 +37,9 @@
         <sys_scope display_value="Data Lookups">f9179ca3db7a9f8036437d8bbf961996</sys_scope>
         <sys_update_name>sys_app_module_4de7d8e3db7a9f8036437d8bbf9619aa</sys_update_name>
         <sys_updated_by>ssturdevant</sys_updated_by>
-        <sys_updated_on>2018-06-25 14:00:48</sys_updated_on>
+        <sys_updated_on>2018-06-25 14:15:03</sys_updated_on>
         <timeline_page/>
-        <title>DICE Services and Titles</title>
+        <title>EADP DICE Data Lookups</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

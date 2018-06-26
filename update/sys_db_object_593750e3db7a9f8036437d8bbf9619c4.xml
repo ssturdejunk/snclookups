@@ -35,7 +35,7 @@
         <sys_updated_by>ssturdevant</sys_updated_by>
         <sys_updated_on>2018-06-25 14:00:47</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="x_elar_data_lookup.dice_services_and_titles_user" name="x_elar_data_lookup.dice_services_and_titles_user">09e7d8e3db7a9f8036437d8bbf961997</user_role>
+        <user_role display_value="x_elar_data_lookup.eadp_lookup_user" name="x_elar_data_lookup.eadp_lookup_user">09e7d8e3db7a9f8036437d8bbf961997</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

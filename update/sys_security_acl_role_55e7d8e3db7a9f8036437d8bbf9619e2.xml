@@ -16,7 +16,7 @@
         <sys_update_name>sys_security_acl_role_55e7d8e3db7a9f8036437d8bbf9619e2</sys_update_name>
         <sys_updated_by>ssturdevant</sys_updated_by>
         <sys_updated_on>2018-06-25 14:00:49</sys_updated_on>
-        <sys_user_role display_value="x_elar_data_lookup.dice_services_and_titles_user" name="x_elar_data_lookup.dice_services_and_titles_user">09e7d8e3db7a9f8036437d8bbf961997</sys_user_role>
+        <sys_user_role display_value="x_elar_data_lookup.eadp_lookup_user" name="x_elar_data_lookup.eadp_lookup_user">09e7d8e3db7a9f8036437d8bbf961997</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_elar_data_lookup.dice_services_and_titles_user" name="x_elar_data_lookup.dice_services_and_titles_user">09e7d8e3db7a9f8036437d8bbf961997</role>
+        <role display_value="x_elar_data_lookup.eadp_lookup_user" name="x_elar_data_lookup.eadp_lookup_user">09e7d8e3db7a9f8036437d8bbf961997</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>ssturdevant</sys_created_by>
         <sys_created_on>2018-06-25 14:00:47</sys_created_on>
